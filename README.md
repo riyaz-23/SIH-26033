@@ -79,6 +79,8 @@ The truck delivers to the community drop point; buyers collect.
 A photo-based quality check is done at pickup, and payment is released through UPI.
 A Rupee Trail receipt is generated for each order.
 
+Flowchart :
+
 <img width="407" height="632" alt="image" src="https://github.com/user-attachments/assets/e2eb45f8-874e-4463-a7ec-f1c637036766" />
 
 ## Feasibility and Viability
