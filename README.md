@@ -83,7 +83,7 @@ Flowchart :
 
 <img width="407" height="632" alt="image" src="https://github.com/user-attachments/assets/e2eb45f8-874e-4463-a7ec-f1c637036766" />
 
-## Feasibility and Viability
+
 ## Feasibility and Viability
 
 1. Feasibility
